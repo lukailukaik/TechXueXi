@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync-dev.yml
-name: sync-TechXueXi/TechXueXi
+name: sync-TechXueXi/TechXueXi-dev
 on:
   schedule:
   - cron:  "2 0 * * *"
